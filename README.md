@@ -13,4 +13,6 @@ Quando ti sei iscritto mandami un messaggio su wa con il tuo username di github 
 - una volta che sei nella cartella esegui `git clone https://github.com/PietroMenchetti/AppProject.git`, una cartella di nome AppProject verrà creata con tutti i contenuti della repository, (ti verranno chieste le credenziali di GitHub). 
 
 # Installare unity:
-https://unity3d.com/get-unity/download e apri il progetto
+- Inscriviti a unity 
+- Scarica [unity](https://unity3d.com/get-unity/download)
+- Mandami il tuo account(solo username) di unity su wa per aggiungerti tra i collaboratori, una volta scaricato unity puoi aprirlo e aprire il progetto clonato da git
