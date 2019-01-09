@@ -26,6 +26,6 @@ https://unity3d.com/get-unity/download
 Se hai completato tutti i punti puoi aprire Unity, selezionare "Apri/Open" e selezionare la cartella del progetto.
 
 
-Una volta dentro Unity, puoi andare su "Edit/Modifca" (credo) > "Preferenze" > "Strumenti esterni", sotto "Android" inserisci in JDK la cartella dove è stato salvato il JDK e in SDK la cartella dove p stato salvato il SDK, salva è chiudi.
+Una volta dentro Unity, puoi andare su "Edit/Modifca" (credo) > "Preferenze" > "Strumenti esterni", sotto "Android" inserisci in JDK la cartella dove è stato salvato il JDK e in SDK la cartella dove è stato salvato il SDK, salva e chiudi.
 
 Per creare l' apk da installare sul tuo smartphone vai su "File" > "Build Settings", seleziona platform "Android" e clicca su "Build". In questo modo verrà compilata l'app e potrai installarla sul tuo smartphone transferendo l'apk nel tuo smartphone.  Se vuoi far compilare e runnare l'app mentre hai lo smartphone collegato al pc dovrebbe bastare fare "Build And Run".
