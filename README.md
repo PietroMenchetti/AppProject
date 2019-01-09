@@ -19,7 +19,7 @@ https://unity3d.com/get-unity/download
 - vai [qui](https://www.oracle.com/technetwork/java/javase/downloads/index.html), scegli l'ultima versione e completa l'installazione.Fai solo attenzione alla cartella dove viene installato il tutto
 
 # Installare Android SDK Tools:
-- vai [qui](https://developer.android.com/studio/), scarica Command line tools only per il tuo sistema operativo
+- vai [qui](https://developer.android.com/studio/), scarica "Command line tools only" per il tuo sistema operativo
 - unzippa il file
 - vai in tools e fai doppio click sul file android
 - si dovrebbe aprire una finestra con la lista di package che è possibile scaricare. Se il tuo smartphone ha l'ultima versione di Android installa i pachetti già selezionati, accetta tutto e completa l'installazione. Fai solo attenzione alla cartella dove viene installato il tutto
