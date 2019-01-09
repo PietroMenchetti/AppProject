@@ -1,7 +1,7 @@
 # AppProject
 
 Se non sei inscritto a github:
-- vai a [GitHub](https://github.com/).
+- vai su [GitHub](https://github.com/).
 - iscriviti
 - una volta terminata l'iscrizione scarica [Git](https://git-scm.com/downloads)
 - se hai installato correttamente dovresti poter useguire il comando `git` da terminale
