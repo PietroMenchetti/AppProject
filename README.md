@@ -19,4 +19,4 @@ Quando ti sei iscritto mandami un messaggio su wa con il tuo username di github 
 
 # [Scrivi le tue proposte](https://docs.google.com/document/d/1eYP3XrcpXDvV-IzZ1UsokVu7iwN0smwcpdYTKIymVYw/edit?usp=sharing)
 
-
+cha
