@@ -16,3 +16,5 @@ Quando ti sei iscritto mandami un messaggio su wa con il tuo username di github 
 - Inscriviti a unity 
 - Scarica [unity](https://unity3d.com/get-unity/download)
 - Mandami il tuo account(solo username) di unity su wa per aggiungerti tra i collaboratori, una volta scaricato unity puoi aprirlo e aprire il progetto clonato da git
+
+# [Scrivi le tue proposte](https://docs.google.com/document/d/1eYP3XrcpXDvV-IzZ1UsokVu7iwN0smwcpdYTKIymVYw/edit?usp=sharing)
