@@ -21,6 +21,7 @@ Quando ti sei iscritto mandami un messaggio su wa con il tuo username di github 
 
 # Slack
 
+What to do ..
 /github subscribe https://github.com/PietroMenchetti/AppProject
 
 /github subscribe https://github.com/PietroMenchetti/AppProject comments
