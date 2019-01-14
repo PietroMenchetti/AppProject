@@ -19,7 +19,10 @@ Quando ti sei iscritto mandami un messaggio su wa con il tuo username di github 
 
 # [Scrivi le tue proposte](https://docs.google.com/document/d/1eYP3XrcpXDvV-IzZ1UsokVu7iwN0smwcpdYTKIymVYw/edit?usp=sharing)
 
-/github subscribe owner/repo
-/github subscribe owner/repo comments
-/github subscribe owner/repo commits:all
-/github subscribe owner/repo branches
+/github subscribe https://github.com/PietroMenchetti/AppProject
+
+/github subscribe https://github.com/PietroMenchetti/AppProject comments
+
+/github subscribe https://github.com/PietroMenchetti/AppProject commits:all
+
+/github subscribe https://github.com/PietroMenchetti/AppProject branches
