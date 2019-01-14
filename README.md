@@ -29,7 +29,7 @@ L' integrazione con GitHub ti permette di riceve notifiche quando qualcuno pusha
 
 Usare slack è semplicissimo, mandami per whatsapp l'email che usi, io poi ti invierò un invito per Slack, vedrai che una volta accettato potrai subito scrivere nel gruppo del progetto che ho creato.
 
-Se vuoi aggiungere anche le notifiche di GitHub, a sinistra in basso sul menu a tendina, dovresti vedere "Apps" e sotto GitHub.Adess semplicemente copia incolla i comandi scritti sotto e inviali alla chat "GitHub".(Probabilmente ti chiederà di autenticare il tuo profilo GitHub in modo da linkare Slack con GitHub).
+Se vuoi aggiungere anche le notifiche di GitHub, a sinistra in basso sul menu a tendina, dovresti vedere "Apps" e sotto GitHub. Adesso semplicemente copia incolla i comandi scritti sotto e inviali alla chat "GitHub".(Probabilmente ti chiederà di autenticare il tuo profilo GitHub in modo da linkare Slack con GitHub).
 
 /github subscribe https://github.com/PietroMenchetti/AppProject
 
