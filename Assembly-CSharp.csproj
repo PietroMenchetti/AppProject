@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BD4C6037-A835-CB2B-2809-E6FE28224F3A}</ProjectGuid>
+    <ProjectGuid>{05F06818-E154-93C2-C2CE-4CFC852F7D3F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -55,22 +55,16 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\SpinningCube.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>/home/pietro/Desktop/SimpleMobilePlaceholder/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>/home/pietro/Desktop/repo/AppProject/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/home/pietro/Desktop/SimpleMobilePlaceholder/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/home/pietro/Desktop/repo/AppProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/home/pietro/Desktop/SimpleMobilePlaceholder/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Editor">
- <HintPath>/home/pietro/Desktop/SimpleMobilePlaceholder/Library/ScriptAssemblies/Editor.dll</HintPath>
- </Reference>
- <Reference Include="XiaomiSupport">
- <HintPath>/home/pietro/Desktop/SimpleMobilePlaceholder/Library/ScriptAssemblies/XiaomiSupport.dll</HintPath>
+ <HintPath>/home/pietro/Desktop/repo/AppProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/home/pietro/Desktop/SimpleMobilePlaceholder/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/home/pietro/Desktop/repo/AppProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/home/pietro/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -272,12 +266,6 @@
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/home/pietro/.config/unity3d/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
- </Reference>
- <Reference Include="ChannelPurchase">
- <HintPath>/home/pietro/.config/unity3d/cache/packages/packages.unity.com/com.unity.xiaomi@1.0.3/ChannelPurchase.dll</HintPath>
- </Reference>
- <Reference Include="UnityStore">
- <HintPath>/home/pietro/.config/unity3d/cache/packages/packages.unity.com/com.unity.xiaomi@1.0.3/UnityStore.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/home/pietro/Unity-2018.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
