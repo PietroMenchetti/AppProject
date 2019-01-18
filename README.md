@@ -17,6 +17,34 @@ Quando ti sei iscritto mandami un messaggio su wa con il tuo username di github 
 - Scarica [unity](https://unity3d.com/get-unity/download)
 - Mandami il tuo account(solo username) di unity su wa per aggiungerti tra i collaboratori, una volta scaricato unity puoi aprirlo e aprire il progetto clonato da git
 
+# Installare jdk:
+- Vai [qui](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- Scarica Java SE Development Kit 8 per il tuo SO
+- Ricordati la cartella dove viene scaricato il Kit
+
+# Installare Android Studio per testare l'app da un emulatore andorid:
+- Vai [qui](https://developer.android.com/studio/)
+- Sarica Android Studio per il tuo SO
+- Esegui l'installazione 
+- Dovrai scaricare l'adroid SDK
+- Ricordati la cartella dove viene scaricato il Kit (di default sarà tipo Android/Sdk)
+
+# Settare jdk e Android sdk in unity:
+- Apri Unity
+- Apri il progetto
+- Vai su Edit > Preferences > External Tools
+- Sotto la voce Android setta la voce SDK alla cartella in cui hai l'android SDK, stessa cosa per il JDK con la relativa cartella
+- Chiudi
+
+Adesso potrai andare su File > Build Settings, selezionare Android come platform e poi Build. Ti permetterà di creare un apk che potrà essere installata su dispotivi Android aventi un SO compatibile con l'sdk installato.
+
+Nel caso tu veda 'No android module loaded' clicca [qui](https://www.youtube.com/watch?v=E52z9Y8yYlg).
+
+Un volta ottenuto l'apk potrai installarlo sia un device Android che sull'emulatore di Android Studio.
+
+Test su Android Studio:
+- 
+
 # [Scrivi le tue proposte](https://docs.google.com/document/d/1eYP3XrcpXDvV-IzZ1UsokVu7iwN0smwcpdYTKIymVYw/edit?usp=sharing)
 
 # Slack
