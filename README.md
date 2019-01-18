@@ -42,8 +42,6 @@ Nel caso tu veda 'No android module loaded' clicca [qui](https://www.youtube.com
 
 Un volta ottenuto l'apk potrai installarlo sia un device Android che sull'emulatore di Android Studio.
 
-Test su Android Studio:
-- 
 
 # [Scrivi le tue proposte](https://docs.google.com/document/d/1eYP3XrcpXDvV-IzZ1UsokVu7iwN0smwcpdYTKIymVYw/edit?usp=sharing)
 
