@@ -64,6 +64,3 @@ Se vuoi aggiungere anche le notifiche di GitHub, a sinistra in basso sul menu a 
 /github subscribe https://github.com/PietroMenchetti/AppProject commits:all
 
 /github subscribe https://github.com/PietroMenchetti/AppProject branches
-
-
-CIAO
