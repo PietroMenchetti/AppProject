@@ -12,6 +12,8 @@ Quando ti sei iscritto mandami un messaggio su wa con il tuo username di github 
 - scegli una cartella dove salvare il progetto
 - una volta che sei nella cartella esegui `git clone https://github.com/PietroMenchetti/AppProject.git`, una cartella di nome AppProject verrà creata con tutti i contenuti della repository, (ti verranno chieste le credenziali di GitHub). 
 
+# [Basi Git](https://www.youtube.com/watch?v=0NupbdhsSjk)
+
 # Installare Unity:
 - Inscriviti a unity 
 - Scarica [unity](https://unity3d.com/get-unity/download)
