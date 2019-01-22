@@ -24,7 +24,7 @@ Quando ti sei iscritto mandami un messaggio su wa con il tuo username di github 
 - Scarica Java SE Development Kit 8 per il tuo SO
 - Ricordati la cartella dove viene scaricato il Kit
 
-# Installare Android Studio per testare l'app da un emulatore andorid:
+# Installare Android Studio:
 - Vai [qui](https://developer.android.com/studio/)
 - Sarica Android Studio per il tuo SO
 - Esegui l'installazione 
