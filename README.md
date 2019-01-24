@@ -68,5 +68,6 @@ Se vuoi aggiungere anche le notifiche di GitHub, a sinistra in basso sul menu a 
 /github subscribe https://github.com/PietroMenchetti/AppProject branches
 
 # Useful links
-- tutorial : (https://www.youtube.com/watch?v=ryISV_nH8qw&t=45s),tiles :(https://opengameart.org/content/rpg-enemies-11-dragons)
-- tutorial : (https://www.youtube.com/watch?v=aaEEujLtsr8)
+- tutorial : https://www.youtube.com/watch?v=ryISV_nH8qw&t=45s 
+- tutorial : https://www.youtube.com/watch?v=aaEEujLtsr8
+- tiles : https://opengameart.org/content/rpg-enemies-11-dragons
