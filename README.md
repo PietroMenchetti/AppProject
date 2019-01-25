@@ -12,6 +12,8 @@ Quando ti sei iscritto mandami un messaggio su wa con il tuo username di github 
 - scegli una cartella dove salvare il progetto
 - una volta che sei nella cartella esegui `git clone https://github.com/PietroMenchetti/AppProject.git`, una cartella di nome AppProject verrà creata con tutti i contenuti della repository, (ti verranno chieste le credenziali di GitHub). 
 
+# [Basi Git](https://www.youtube.com/watch?v=0NupbdhsSjk)
+
 # Installare Unity:
 - Inscriviti a unity 
 - Scarica [unity](https://unity3d.com/get-unity/download)
@@ -22,7 +24,7 @@ Quando ti sei iscritto mandami un messaggio su wa con il tuo username di github 
 - Scarica Java SE Development Kit 8 per il tuo SO
 - Ricordati la cartella dove viene scaricato il Kit
 
-# Installare Android Studio per testare l'app da un emulatore andorid:
+# Installare Android Studio:
 - Vai [qui](https://developer.android.com/studio/)
 - Sarica Android Studio per il tuo SO
 - Esegui l'installazione 
@@ -64,3 +66,8 @@ Se vuoi aggiungere anche le notifiche di GitHub, a sinistra in basso sul menu a 
 /github subscribe https://github.com/PietroMenchetti/AppProject commits:all
 
 /github subscribe https://github.com/PietroMenchetti/AppProject branches
+
+# Useful links
+- tutorial : https://www.youtube.com/watch?v=ryISV_nH8qw&t=45s 
+- tutorial : https://www.youtube.com/watch?v=aaEEujLtsr8
+- tiles : https://opengameart.org/
